@@ -2,7 +2,7 @@
     $links = [
     ['path'=> '/', 'text'=> 'Home'],
     ['path'=> '/about', 'text'=> 'About'],
-    ['path'=> '/busines-plan', 'text'=> 'Business Plan'],
+    ['path'=> '/business-plan', 'text'=> 'Business Plan'],
     ['path'=> '/operations', 'text'=> 'Operations'],
     ['path'=> '/corporate-structure', 'text'=> 'Corporate Structure'],
     ['path'=> '/hotel-operations', 'text'=> 'Hotel Operations'],
