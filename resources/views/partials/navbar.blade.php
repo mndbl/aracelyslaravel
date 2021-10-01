@@ -17,7 +17,7 @@
             <div class="lg:flex lg:items-center lg:justify-between">
                 <div class="flex items-center justify-between">
                     <div class="text-xl font-semibold text-gray-700">
-                        <a class="text-xl font-bold text-gray-800 dark:text-white  hover:text-gray-700 dark:hover:text-gray-300" href="/">The Total 350 Experience</a>
+                        <a class="text-xl font-bold text-gray-800 dark:text-white  hover:text-gray-700 dark:hover:text-gray-300" href="/">The 305 Total Experience</a>
                     </div>
 
                     <!-- Mobile menu button -->
