@@ -9,4 +9,128 @@
                 </div>
             </div>
         </div>
+        <section class="container p-6 mx-auto bg-white dark:bg-gray-800">
+        <h2 class="text-xl font-medium text-gray-800 capitalize dark:text-white md:text-2xl">
+          Our Partners
+        </h2>
+
+        <div class="flex items-center justify-center">
+          <div class="grid gap-8 mt-8 sm:grid-cols-4 lg:grid-cols-8 xl:grid-cols-8">
+            <div class="w-full max-w-xs text-center">
+              <a href="https://www.bigbustours.com/es/miami/autobus-turistico-miami/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/bigbus.png"
+                  alt="avatar"
+                />
+              </a>
+
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">BigBus</h3> */}
+                {/* <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">CEO</span> */} --}}
+              </div>
+            </div>
+
+            <div class="w-full max-w-xs text-center">
+              <a href="https://fairchildgarden.org/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/ftbg.jpg"
+                  alt="avatar"
+                />
+              </a>
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Jane Doe</h3>
+                        <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Co-founder</span> */} --}}
+              </div>
+            </div>
+
+            <div class="w-full max-w-xs text-center">
+              <a href="https://www.hiro163.com/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/hiromiami.png"
+                  alt="avatar"
+                />
+              </a>
+
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Steve Ben</h3>
+                        <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">UI/UX</span> */} --}}
+              </div>
+            </div>
+
+            <div class="w-full max-w-xs text-center">
+              <a href="https://myntlounge.com/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/made.png"
+                  alt="avatar"
+                />
+              </a>
+
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Patterson Johnson</h3>
+                        <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Software Engineer</span> */} --}}
+              </div>
+            </div>
+            <div class="w-full max-w-xs text-center">
+              <a href="http://www.mistero1.com/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/mistery.jpg"
+                  alt="avatar"
+                />
+              </a>
+
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Patterson Johnson</h3>
+                        <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Software Engineer</span> */} --}}
+              </div>
+            </div>
+            <div class="w-full max-w-xs text-center">
+              <a href="https://www.miamiseaquarium.com/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/seamiami.jpg"
+                  alt="avatar"
+                />
+              </a>
+
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Patterson Johnson</h3>
+                        <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Software Engineer</span> */} --}}
+              </div>
+            </div>
+            <div class="w-full max-w-xs text-center">
+              <a href="https://seaview-hotel.com/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/seaview.png"
+                  alt="avatar"
+                />
+              </a>
+
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Patterson Johnson</h3>
+                        <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Software Engineer</span> */} --}}
+              </div>
+            </div>
+            <div class="w-full max-w-xs text-center">
+              <a href="https://vizcaya.org/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/vizcaya.png"
+                  alt="avatar"
+                />
+              </a>
+
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Patterson Johnson</h3>
+                        <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Software Engineer</span> */} --}}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 @endsection
