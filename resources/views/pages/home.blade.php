@@ -15,7 +15,7 @@
         </h2>
 
         <div class="flex items-center justify-center">
-          <div class="grid gap-8 mt-8 sm:grid-cols-4 lg:grid-cols-8 xl:grid-cols-8">
+          <div class="grid gap-8 mt-8 sm:grid-cols-4 lg:grid-cols-5">
             <div class="w-full max-w-xs text-center">
               <a href="https://www.bigbustours.com/es/miami/autobus-turistico-miami/">
                 <img
@@ -121,6 +121,20 @@
                 <img
                   class="object-contain object-center w-full h-48 mx-auto rounded-lg"
                   src="/assets/vizcaya.png"
+                  alt="avatar"
+                />
+              </a>
+
+              <div class="mt-2">
+                {{-- {/* <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Patterson Johnson</h3>
+                        <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Software Engineer</span> */} --}}
+              </div>
+            </div>
+            <div class="w-full max-w-xs text-center">
+              <a href="https://www.tesla.com/">
+                <img
+                  class="object-contain object-center w-full h-48 mx-auto rounded-lg"
+                  src="/assets/Tesla.png"
                   alt="avatar"
                 />
               </a>
