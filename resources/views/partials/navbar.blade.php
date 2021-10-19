@@ -17,7 +17,7 @@
             <div class="lg:flex lg:items-center lg:justify-between">
                 <div class="flex items-center justify-between">
                     <div class="text-xl font-semibold text-gray-700">
-                        <a class="text-xl font-bold text-gray-800 dark:text-white  hover:text-gray-700 dark:hover:text-gray-300" href="/">The 305 Total Experience</a>
+                        <a class="text-xl font-bold text-gray-800 dark:text-white  hover:text-gray-700 dark:hover:text-gray-300" href="/">The 305 <br/> Total Experience</a>
                     </div>
 
                     <!-- Mobile menu button -->
@@ -31,7 +31,7 @@
                 </div>
 
                 <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
-                <div class="hidden -mx-4 lg:flex lg:items-center">
+                <div class="hidden lg:flex lg:items-center">
                     @foreach ($links as $link)
                     <a href={{$link['path']}}
                     class="block mx-1 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-blue-600 dark:hover:text-indigo-400">{{$link['text']}}</a>

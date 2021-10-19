@@ -147,4 +147,25 @@
           </div>
         </div>
       </section>
+      <section class="my-8 mx-2">
+        <h3 class="w-full text-center font-bold text-blue-600 text-2xl">CONTACT US</h3>
+          <div class="grid grid-cols-3 gap-2 divide-x-2 text-justify">
+          <p>Welcome to The 305 Total Experience corporation, your number one source for all
+            things entertainment, hospitality transportation, and restaurants in Miami. We&#39;re
+            dedicated to providing you the very best of our services.</p>
+            <p class="pl-2">Founded in 2021 by Aracelis Díaz. The 305 Total Experience corporation has come a
+              long way from its beginnings in Miami, Fl. When Aracelis Díaz first started out, her
+              passion for promote Miami tourism drove them to start their own business.</p>
+              <p class="pl-2">We hope you enjoy our services as much as we enjoy offering them to you. If you have
+                any questions or comments, please don&#39;t hesitate to contact us.
+                Sincerely,
+<br>
+
+<span class="text-right ml-12 italic">
+  Aracelis Díaz.
+
+</span>
+              </p>
+          </div>
+      </section>
 @endsection
