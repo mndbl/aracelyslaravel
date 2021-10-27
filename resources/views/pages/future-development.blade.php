@@ -4,7 +4,7 @@
     <div class="mb-4 text-sm" style="background-image: url('assets/miamilarga.jpg'); background-position: center;">
         <h3 class="py-4 text-center text-black text-4xl font-extrabold bg-blue-500 bg-black bg-opacity-50">
             FUTURE DEVELOPMENT
-            </h3>
+        </h3>
     </div>
     <img class="lg:float-left lg:mr-4 w-full lg:w-1/2"
     src="https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlhbWl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="">
