@@ -21,3 +21,4 @@ Route::view('/marketing-plan', 'pages.marketing-plan')->name('marketing-plan');
 Route::view('/strategic-management', 'pages.strategic-management')->name('strategic-management');
 Route::view('/future-development', 'pages.future-development')->name('future-development');
 Route::view('/hotel-operations', 'pages.hotel-operations')->name('hotel-operations');
+Route::view('/operations', 'pages.operations')->name('operations');

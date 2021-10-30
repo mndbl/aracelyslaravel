@@ -1,13 +1,13 @@
 @extends('welcome')
 @section('pages')
-    <div class="py-12 bg-white mx-auto">
+    <div class="py-12 bg-white mx-auto justify-center">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-justify">
     <div class="lg:mx-auto w-full">
       <h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">Business Plan</h2>
       <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
         Executive Summary
       </p>
-      <p class="mt-4 max-w-2xl text-xl text-gray-500">
+      <p class="mx-auto mt-4 max-w-2xl text-xl text-gray-500">
           The 305 total experience (referred to from hereon in as the &quot;Company&quot;) is intended to
         be established as a C-corporation at 4441 Collins Ave. Miami Beach, Miami, Fl, 33140.
         In the hospitality industry, there is a high likelihood of rapid expansion, to be able to
@@ -19,8 +19,8 @@
       Business Description
           </h2>
 
-      <p class="mt-4 max-w-2xl text-md text-gray-500">
-            The 305 Total Experience shall be formed as C-corporation under Florida state laws
+      <p class="mx-auto mt-4 max-w-2xl text-md text-gray-500">
+        The 305 Total Experience shall be formed as C-corporation under Florida state laws
         and headed by Aracelis Diaz.
         Making major corporate decisions, managing the overall operations and resources of
         the company, acting as a main point of communication between the board of directors
@@ -54,8 +54,8 @@
       Industry Overview
           </h2>
 
-      <p class="mt-4 max-w-2xl text-md text-gray-500">
-            The tourist and hotel business in the United States currently generates $18 billion in
+      <p class="mx-auto mt-4 max-w-2xl text-md text-gray-500">
+        The tourist and hotel business in the United States currently generates $18 billion in
         revenue. In South Florida, general occupancy is increasing, with rates ranging from 70
         to 80 percent in different locales. This isn&#39;t far off from what the figures were before
         COVID at the same time of year. Most of these improvements came from leisure travel,
@@ -75,7 +75,7 @@
       Legal Issues
           </h2>
 
-      <p class="mt-4 max-w-2xl text-md text-gray-500">
+      <p class="mx-auto mt-4 max-w-2xl text-md text-gray-500">
       The Company affirms that its promoters have acquired all legally required trademarks
 and patents.
       </p>
@@ -85,7 +85,7 @@ and patents.
       <h2 class="text-base text-gray-600 font-semibold tracking-wide uppercase">
       Business Goals and Objectives
           </h2>
-          <div class="max-w-2xl lg:flex">
+          <div class=" mx-auto max-w-2xl lg:flex">
               <div class="lg:w-1/2">
 <p class="font-bold mt-4 max-w-2xl text-md text-gray-500">
       Short Term
@@ -127,7 +127,7 @@ Increase our reputation in Florida
       Target Market
           </h2>
 
-      <p class="mt-4 max-w-2xl text-md text-gray-500">
+      <p class="mx-auto mt-4 max-w-2xl text-md text-gray-500">
       The tourist and hotel business in the United States currently generates $18 billion in
 revenue. In South Florida, general occupancy is increasing, with rates ranging from 70
 to 80 percent in different locales. This isn&#39;t far off from what the figures were before
