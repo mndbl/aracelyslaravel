@@ -14,8 +14,10 @@
  *
  * See: https://github.com/laravel-frontend-presets/tall/issues/7
  */
- input:invalid, textarea:invalid, select:invalid {
-    box-shadow: none;
+input:invalid,
+textarea:invalid,
+select:invalid {
+	box-shadow: none;
 }
 
 /**
@@ -38,6 +40,23 @@
  * This injects all of Tailwind's utility classes, generated based on your
  * config file.
  */
+
+.table {
+	@apply bg-white text-gray-900 w-full shadow-none;
+}
+.table th {
+	@apply bg-blue-700 text-white p-2;
+}
+.table tr:nth-child(odd) {
+	@apply bg-blue-100 text-blue-900;
+}
+.table tr:nth-child(even) {
+	@apply bg-blue-200 text-blue-900;
+}
+.table td {
+	@apply p-2;
+}
+
 @tailwind utilities;
 
 /**
@@ -51,5 +70,5 @@
  */
 
 [x-cloak] {
-    display: none;
+	display: none;
 }

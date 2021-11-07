@@ -22,3 +22,4 @@ Route::view('/strategic-management', 'pages.strategic-management')->name('strate
 Route::view('/future-development', 'pages.future-development')->name('future-development');
 Route::view('/hotel-operations', 'pages.hotel-operations')->name('hotel-operations');
 Route::view('/operations', 'pages.operations')->name('operations');
+Route::view('/financials', 'pages.financials')->name('financials');
