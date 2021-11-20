@@ -9,7 +9,7 @@
               </h2>
 
               <p class="mt-4 text-gray-500 dark:text-gray-400 lg:max-w-md">
-                My company exists to support local business. We want to offer a
+                The company exists to support local business. We want to offer a
                 quality service and informative excellence in the tourist
                 services market, providing our clients with information on
                 high-quality products and services.
@@ -171,7 +171,7 @@
               </h1>
 
               <p class="mt-2 text-gray-500 dark:text-gray-400">
-                My image would be as an updated, reliable guide with an
+                The image would be as an updated, reliable guide with an
                 impeccable reputation so that both my clients and my guide
                 visitors consider not having to look for trending sites in any
                 other guide.
