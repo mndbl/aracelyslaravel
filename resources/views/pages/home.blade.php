@@ -15,7 +15,7 @@
         </h2>
 
         <div class="flex items-center justify-center">
-          <div class="grid gap-8 mt-8 sm:grid-cols-4 lg:grid-cols-5">
+          <div class="grid gap-8 mt-8 sm:grid-cols-4 lg:grid-cols-8">
             <div class="w-full max-w-xs text-center">
               <a href="https://www.bigbustours.com/es/miami/autobus-turistico-miami/">
                 <img
